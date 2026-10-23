@@ -68,6 +68,19 @@ Notebook içerisinde aşağıdaki analizler gerçekleştirilmiştir:
 - Jupyter Notebook
 - Google Colab
 
+## Öne Çıkan Bulgular
+
+- Analiz kapsamında 99.441 sipariş ve 112.650 sipariş kalemi incelenmiştir.
+- Müşteri kayıtları 27 farklı Brezilya eyaletini kapsamaktadır.
+- São Paulo (SP), 41.746 siparişle en yüksek sipariş hacmine sahip eyalettir.
+- Teslim edilmiş siparişlerde medyan teslimat süresi 10 gün, P90 teslimat süresi 23 gündür.
+- Eyaletlerin ortalama teslimat süreleri arasında yaklaşık 20,68 günlük fark bulunmaktadır.
+- Sipariş hacmi, teslimat süresi, P90 ve ortalama sipariş değerinin birlikte değerlendirilmesi, bölgesel performans farklılıklarını daha kapsamlı incelemeyi sağlar.
+
+**İş perspektifi:** Yüksek sipariş hacmine sahip bölgeler ile uzun teslimat sürelerinin görüldüğü bölgeler ayrı ayrı değerlendirilmelidir. Gecikmelerin olası nedenlerini doğrulamak için coğrafi mesafe, kargo maliyetleri ve lojistik ağ yapısı gibi ek değişkenlerle ileri analiz yapılabilir.
+
+*Not: Bulgular mevcut veri setinin betimleyici analizine dayanır; gözlemlenen bölgesel farklılıklar tek başına neden-sonuç ilişkisi göstermez.*
+
 ## Gereksinimler ve Çalıştırma
 
 Projeyi Jupyter Notebook, JupyterLab, VS Code veya Google Colab üzerinde çalıştırabilirsiniz.
