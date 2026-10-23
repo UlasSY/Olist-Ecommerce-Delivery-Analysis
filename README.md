@@ -19,8 +19,17 @@ incelemek ve elde edilen sonuçları iş perspektifinden değerlendirmek amaçla
 
 ## Repository İçeriği
 
-- `olist_delivery_analysis.ipynb` — Veri yükleme, veri hazırlama, analiz, görselleştirme, iş perspektifi ve PostgreSQL entegrasyonunu içeren ana notebook.
-- `README.md` — Proje ve çalışma ortamı hakkında kısa dokümantasyon.
+- olist_delivery_analysis.ipynb — Veri hazırlama, keşifsel veri analizi, görselleştirmeler, bölgesel teslimat performansı değerlendirmeleri ve PostgreSQL entegrasyonunu içeren ana notebook.
+
+- README.md — Türkçe proje dokümantasyonu.
+
+- README_Eng.md — İngilizce proje dokümantasyonu.
+
+- olist_customers_dataset.csv — Müşteri kimlikleri ve coğrafi konum bilgileri.
+
+- olist_order_items_dataset.csv — Sipariş kalemleri, satıcı bilgileri, ürün fiyatları ve kargo ücretleri.
+
+- olist_orders_dataset.csv — Sipariş durumları, satın alma zamanları ve teslimat tarihleri.
 
 ## Veri Seti
 
